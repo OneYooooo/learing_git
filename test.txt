@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 op second
-=======
-hello im main
->>>>>>> main
